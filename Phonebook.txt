@@ -1,0 +1,4 @@
+Ivanov Ivan Ivanovich 01.01.2000 1234567890 m
+Ivanov Ivan Ivanovich 01.01.2000 12564567890 m
+Ivanovа Ivanка Ivanovich 01.01.2010 1234567890 f
+Петров Петр Петрович 01.01.1995 234234567890 m
