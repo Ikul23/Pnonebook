@@ -26,10 +26,15 @@
 Приложение для управления записями в телефонной книге, реализованное с использованием паттерна проектирования MVC (Model-View-Controller).
 
 Model: Модуль/класс, который представляет данные, полученные от пользователя.
+https://github.com/Ikul23/Pnonebook/tree/main/src/main/java/Phone_Book_MVC/Model
 
 View: Модуль/класс, который отвечает за взаимодействие с пользователем (ввод и вывод данных).
+https://github.com/Ikul23/Pnonebook/tree/main/src/main/java/Phone_Book_MVC/View
 
 Controller: Модуль/класс, который координирует действия между моделью и представлением.
+https://github.com/Ikul23/Pnonebook/tree/main/src/main/java/Phone_Book_MVC/Controller
+
+Реализация пользовательского интерфейса в классе Main: https://github.com/Ikul23/Pnonebook/blob/main/src/main/java/Phone_Book_MVC/Main.java
 
 Для выявления ошибок в модуле Controller реализован метод проброски исключений throws на уровне метода savePersonData
 а также охранения данных в файл и обработки возможных исключений с помощью try-with-resources.
